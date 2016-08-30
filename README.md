@@ -9,3 +9,4 @@ Establish Kingdom has uploaded a Java based Data Management application which de
 How to compile and install instructions will be added later in the project as we do further development to this base application. 
 
 ---- Credits ----
+Thanks to all team members which includes Umair Aslam, Loveveer Singh, Abhishek Gaba, and myself Salman Ahmed. Special thanks to our lecturer Dr. Recep Ulusoy for this wonderful course and such assignments design which helped us in learning how team projects are dealt with in the professional world. 
