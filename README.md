@@ -10,6 +10,7 @@ Establish Kingdom has uploaded a Java based Data Management application which de
 ---- How to Compile and Install ----
 
 How to compile and install instructions will be added later in the project as we do further development to this base application. 
+Data Management Application is an Eclipse Project. Have tried to compile at command line but it failed as it wasn't able to import jdom package. 
 
 ---- Credits ----
 
